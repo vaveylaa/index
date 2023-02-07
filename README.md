@@ -1,1 +1,3 @@
 # index
+
+KODLUYORUZ & PATİKA DEV
